@@ -1,6 +1,6 @@
 # Legacy
 
-In this problem, we cannot receive any file. So I sent some strings.Then, I got some error message that shows below.
+In this problem, we cannot receive any file. So I sent some strings to get more information.Then, I got some error message that shows below.
 
 ```
 Traceback (most recent call last):
