@@ -36,7 +36,7 @@ But, there is no detector after this point. So following procedure can be used t
 2. input "continue".
 3. attach x64dbg with that proccess.
 
-After runnning detecotor, the program received name and passwords. Then, commpare passwords with data on the stack which value depends on name.  
+After runnning detector, the program received name and passwords. Then, compare passwords with data on the stack which value depends on name.  
 So now, attaching x64dbg following above steps, record the compared values. The instructions for comparing passwords are marked in the below image.
 
 ![passes](passes.png)
