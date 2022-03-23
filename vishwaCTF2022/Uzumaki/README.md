@@ -1,9 +1,9 @@
 # Uzumaki
 
-## problem
+## Problem
 This has something to do with "Uzumaki" remainder theorm and total no. of alphabets
 
-## analysis
+## Analysis and Solution
 First, put the binary in ghidra.  
 In `main` function, int values are put into the stack. I named that variable as `keys`.
 

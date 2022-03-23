@@ -1,16 +1,16 @@
 # Confusion
 
-## problem
+## Problem
 >Why is everything so Confusing in here? It is not difficult to bypass the anti-debugger but find the key, to get started, here's the Username: nLYTCmdXobFRhs you'll have to use your neurons.  
 Flag Format: vishwaCTF{password_separated_by_underscores}
 
-## overview
+## Overview
 Run the program in command line. The program asked us to input "rules" or "continue". Input "continue", then program required the name and 11 password. So the flag format should be like: `vishwaCTF{1_2_3_4_5_6_7_8_9_10_11}`
 
 ![overview](overview.png)
 
 
-## analysis
+## Analysis and Solution
 Put the binary in ghidra as always. 
 First, we can find that there is no `main` function. To find out that, attaching x64dbg and using "step over" from entry point until stop. 
 
