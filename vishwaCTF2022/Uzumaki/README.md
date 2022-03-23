@@ -20,7 +20,7 @@ From above, we can say that it is correct if return value of `_Z9mergeSortPA4_A2
 
 ![_Z9mergeSortPA4_A2_iiiPc](img/_Z9mergeSortPA4_A2_iiiPc.png)
 
-From the two upper image, arg1 and arg2 are hard coded as 2 and 0. So we don't have to care about if statement. As a result, this function return the value of `check_flag` function. (Actually, I have renamed this function's name but I forgot the original one. sry.) The arguments of `check_flag` are `keys` and our input.
+From the two upper image, arg1 and arg2 are hard coded as 2 and 0. So we don't have to care about if statement. As a result, this function return the value of `check_flag` function. (Actually, I have renamed this name of function but I forgot the original one. sry.) The arguments of `check_flag` are `keys` and our input.
 
 ![check_flag_head](img/check_flag_head.png)
 
