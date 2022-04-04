@@ -1,4 +1,4 @@
-# Confusion
+# Confusion (Reviersing)
 
 ## Problem
 >Why is everything so Confusing in here? It is not difficult to bypass the anti-debugger but find the key, to get started, here's the Username: nLYTCmdXobFRhs you'll have to use your neurons.  

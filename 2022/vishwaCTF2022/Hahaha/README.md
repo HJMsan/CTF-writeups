@@ -1,4 +1,4 @@
-# Hahaha
+# Hahaha (Reversing)
 
 ## analysis
 First, I put the binary in ghidra.  

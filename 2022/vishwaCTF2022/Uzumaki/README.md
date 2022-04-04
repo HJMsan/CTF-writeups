@@ -1,4 +1,4 @@
-# Uzumaki
+# Uzumaki (Reversing)
 
 ## Problem
 This has something to do with "Uzumaki" remainder theorm and total no. of alphabets
